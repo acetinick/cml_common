@@ -27,5 +27,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "rails", "~> 6.0.2", ">= 6.0.2.1"
 
+  spec.add_dependency "sidekiq", "6.0.4"
+
   spec.add_development_dependency "sqlite3"
 end
