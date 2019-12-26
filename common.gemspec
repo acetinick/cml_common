@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.version     = Common::VERSION
   spec.authors     = ["Andrew Cetinic"]
   spec.email       = ["acetinick@gmail.com"]
-  spec.homepage    = "cml.pm"
+  spec.homepage    = "https://cml.pm"
   spec.summary     = "Common modules"
   spec.description = "Common modules"
   spec.license     = "MIT"
