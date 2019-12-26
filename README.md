@@ -1,20 +1,28 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Common
+Short description and motivation.
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+## Usage
+How to use my plugin.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+## Installation
+Add this line to your application's Gemfile:
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+```ruby
+gem 'common'
+```
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+And then execute:
+```bash
+$ bundle
+```
+
+Or install it yourself as:
+```bash
+$ gem install common
+```
+
+## Contributing
+Contribution directions go here.
+
+## License
+The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
