@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.version     = Common::VERSION
   spec.authors     = ["Andrew Cetinic"]
   spec.email       = ["acetinick@gmail.com"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of Common."
-  spec.description = "TODO: Description of Common."
+  spec.homepage    = "cml.pm"
+  spec.summary     = "Common modules"
+  spec.description = "Common modules"
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
